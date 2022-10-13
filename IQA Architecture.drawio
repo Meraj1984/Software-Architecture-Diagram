@@ -1,1 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T06:05:49.768Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.2.7" etag="B_n_bsMNuOfF9UGDrNk-" type="github"><diagram id="NcPhcNpwHeyknh4Y-Mfl">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-13T11:39:07.826Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="XC_VjtT96sSEmGAqas6X" version="20.2.7" type="github">
+  <diagram id="NcPhcNpwHeyknh4Y-Mfl" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BJ71SBcXdLgU81XMyE0y-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="410" as="sourcePoint" />
+            <mxPoint x="460" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="190" />
+              <mxPoint x="461" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BJ71SBcXdLgU81XMyE0y-2" value="BANCOR &lt;br&gt;IQA SDK (DLL)&lt;br&gt;will return result to KORES API" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="450" y="260" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BJ71SBcXdLgU81XMyE0y-9" value="&lt;span style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;ASP.NET WEB&lt;/span&gt;&lt;br style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;API&lt;/span&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/web_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="366" y="50" width="96" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BJ71SBcXdLgU81XMyE0y-15" value="BANCOR IQA SDK" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="334" y="410" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BJ71SBcXdLgU81XMyE0y-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/dompicon-glyph-file-format-2/256/file-dll-format-type-128.png" vertex="1" parent="BJ71SBcXdLgU81XMyE0y-15">
+          <mxGeometry x="14" y="40" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BJ71SBcXdLgU81XMyE0y-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/Futurosoft%20Icons%200.5.2/128x128/apps/filetypes.png" vertex="1" parent="BJ71SBcXdLgU81XMyE0y-15">
+          <mxGeometry x="83" y="45" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BJ71SBcXdLgU81XMyE0y-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="1" source="BJ71SBcXdLgU81XMyE0y-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="190" as="sourcePoint" />
+            <mxPoint x="400" y="413.42" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="210" />
+              <mxPoint x="400" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BJ71SBcXdLgU81XMyE0y-3" value="KORES&lt;br&gt;&amp;nbsp;Web API will use Bancor dll &amp;amp; pass images to Bancor&amp;nbsp;&lt;br&gt;SDK" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="318" y="260" width="100" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
